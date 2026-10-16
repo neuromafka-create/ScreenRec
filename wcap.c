@@ -1,4 +1,4 @@
-// ScreenRec — локальный рекордер экрана. Захват и кодирование взяты из wcap (public domain).
+// ScreenRec — локальный рекордер экрана. Лицензия MIT. Захват и кодирование взяты из wcap.
 
 #include "wcap.h"
 #include "wcap_config.h"

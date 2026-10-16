@@ -18,7 +18,7 @@ BEGIN
 			VALUE "FileDescription", "ScreenRec"
 			VALUE "FileVersion", "1.0.0"
 			VALUE "InternalName", "ScreenRec"
-			VALUE "LegalCopyright", "Public domain. Based on wcap."
+			VALUE "LegalCopyright", "Copyright (c) 2026 Maria Bortnikova. MIT License."
 			VALUE "OriginalFilename", "ScreenRec-x64.exe"
 			VALUE "ProductName", "ScreenRec"
 			VALUE "ProductVersion", "1.0.0"

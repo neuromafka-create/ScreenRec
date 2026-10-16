@@ -15,7 +15,7 @@
 - Настройки и горячие клавиши. Рядом с программой лежит portable-файл `ScreenRec-x64.ini`.
 - Установщик 1.0: ярлык в меню «Пуск», запись в «Приложения и возможности», по желанию автозапуск и значок на рабочем столе.
 
-Движок захвата и кодирования основан на [wcap](https://github.com/mmozeiko/wcap) (public domain). Ниже — история этого движка.
+Лицензия ScreenRec — [MIT](LICENSE). Движок захвата и кодирования основан на [wcap](https://github.com/mmozeiko/wcap). Ниже — история этого движка.
 
 ##### 2025.11.23
  * option to capture secondary windows (popups & dialogs) on Windows 11 24H2 and up

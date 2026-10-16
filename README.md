@@ -87,4 +87,4 @@ build-installer.cmd
 
 ## Лицензия
 
-Код программы — [Unlicense](LICENSE), общественное достояние. Захват и кодирование основаны на [wcap](https://github.com/mmozeiko/wcap) Мартина Можейко.
+Код программы — [MIT](LICENSE). Захват и кодирование основаны на [wcap](https://github.com/mmozeiko/wcap) Мартина Можейко.
