@@ -1,0 +1,16 @@
+# Сборка
+*.obj
+*.res
+*.exp
+*.lib
+*.pdb
+*.ilk
+ScreenRec-*.exe
+ScreenRec-*.ini
+dist/
+
+# Шейдеры, которые заново собирает build.cmd
+shaders/*.asm
+shaders/*.dxbc
+shaders/*.dcs
+shaders/*.h
